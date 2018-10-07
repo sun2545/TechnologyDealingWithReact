@@ -1,3 +1,3 @@
 
 props - {this.props.age} <br>
-state - {this.state.number}
+state - {this.state.number} <br>
