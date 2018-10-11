@@ -10,23 +10,10 @@ const clientHeight = this.box.clientHeight; <br>
 --------------------------------------------------------<br>
       
 #### for example
-render(){ <br>
-     return( <br>
-      '<div>' <br>
-        <div>{this.props.name}</div><br>
-        <div>{this.props.number}</div><br>
-      </div><br>
-     )<br>
-    }<br>
-        
+![capture1](https://user-images.githubusercontent.com/26092150/46782038-84fb1700-ccf2-11e8-96d4-9faf94946db8.JPG)
+
+
 ##### the same
-render(){ <br>
-     const {name, number } = this.props;<br>
-     return( <br>
-      <div> <br>
-        <div>{name}</div><br>
-        <div>{number}</div><br>
-      </div><br>
-     )<br>
-    }<br>
-     
+![capture2](https://user-images.githubusercontent.com/26092150/46782039-8593ad80-ccf2-11e8-9339-dd8e7adbf5c2.JPG)
+
+
