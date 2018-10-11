@@ -12,7 +12,7 @@ const clientHeight = this.box.clientHeight; <br>
 #### for example
 render(){ <br>
      return( <br>
-      <div> <br>
+      '<div>' <br>
         <div>{this.props.name}</div><br>
         <div>{this.props.number}</div><br>
       </div><br>
